@@ -1,13 +1,1 @@
 # Alequin90.github.io
-<!doctype html>
-    <html>
-     <head>
-        <title> pagina hatsune miku</title>
-        <p>hola mundo</p>
-      </head>
-        <body style="background-color: lightblue;"> 
-            <img src= "miku.jpg" alt =¨miku¨ width="1308" height="736">
-              <a href="https://www.youtube.com/watch?v=xAwnI9AraXs&list=RDxAwnI9AraXs&start_radio=1">videos ramdom</a>
-        <iframe width="1308"height="736" src="https://www.youtube.com/embed/xAwnI9AraXs?si=4oJva4uaOPynnkcU" allowfullscreen >
-        </body>
-    </html>
